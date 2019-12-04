@@ -1,2 +1,2 @@
 # MyRabbitMQ
-RabbitMQ Demo
+RabbitMQ Direct 模式
